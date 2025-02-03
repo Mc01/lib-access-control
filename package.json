@@ -1,0 +1,7 @@
+{
+  "name": "LibAccessControl",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.2.0"
+  }
+}
